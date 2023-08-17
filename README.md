@@ -3,4 +3,4 @@
 ⛄ Theme preview - ▶️ [https://snowmantheme.netlify.app/](https://snowmantheme.netlify.app/)
 ## Features⚠️ 
 - Fully Responsive for all media quearies
-- Display Mode support for Dark / Light
+- Dark / Light theme support with your device setting
